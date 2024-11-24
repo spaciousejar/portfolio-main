@@ -4,27 +4,24 @@ This is my personal portfolio website, showcasing my projects and experiences.
 
 ## About Me
 
-Vicky Jadhav
-Web Developer
-Vicky is a Mumbai-based Web Developer with a passion for transforming complex challenges into simple, elegant design solutions. His work spans digital interfaces, interactive experiences, and the convergence of design and technology.
+Mumbai-based Web Developer Vicky crafts simple, elegant solutions for complex challenges, focusing on digital interfaces, interactive experiences, and design-tech convergence.
 
 ### Work Experience
 
 #### Freelancer (2023 - Present)
 Web Developer
-- Redesigned the UI/UX for the platform, resulting in a 20% increase in user engagement and 30% faster load times.
-- Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.
+- Redesigned UI/UX, resulting in a 20% increase in user engagement and 30% faster load times.
+- Integrated AI tools into design workflows, enabling 50% faster iteration.
 
 #### Codsoft (2022 - 2023)
 Frontend Developer-Intern
-- Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.
-- Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.
+- Developed a design system, improving design consistency by 40%.
+- Led a team to launch a new product line, contributing to a 15% increase in revenue.
 
 ### Studies
 
 #### Dbatu University
 Bachelor of Technology in Electronics and Computer Engineering.
-Build the Future
 Studied Artificial intelligence.
 
 ### Technical Skills
