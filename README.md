@@ -4,8 +4,6 @@ This is my personal portfolio website, showcasing my projects and experiences.
 
 ## About Me
 
-Asia/Kolkata
-Schedule a call
 Vicky Jadhav
 Web Developer
 Vicky is a Mumbai-based Web Developer with a passion for transforming complex challenges into simple, elegant design solutions. His work spans digital interfaces, interactive experiences, and the convergence of design and technology.
