@@ -32,5 +32,5 @@ Learn Git with me is a free and open-source platform to learn Git and GitHub. It
 
 I'm always interested in new opportunities and collaborations!
 
-- Email: [jadhavvicky752@gmail.com](mailto:jadhavvicky752@gmail.com)
-- GitHub: [View my work](https://github.com/spaciousejar)
+- [Contact](mailto:jadhavvicky752@gmail.com)
+- [View my work](https://github.com/spaciousejar?tab=repositories)
