@@ -1,36 +1,36 @@
-# Portfolio Website
+# Vicky Jadhav's Portfolio
 
-This is my personal portfolio website, showcasing my projects and experiences.
+Welcome to my portfolio website! I'm a passionate developer focused on creating modern web applications.
 
 ## About Me
 
-Mumbai-based Web Developer Vicky crafts simple, elegant solutions for complex challenges, focusing on digital interfaces, interactive experiences, and design-tech convergence.
+I specialize in building responsive and performant web applications using cutting-edge technologies. My work combines technical excellence with great user experiences.
 
-### Work Experience
+## Technical Expertise
 
-#### Freelancer (2023 - Present)
-Web Developer
-- Redesigned UI/UX, resulting in a 20% increase in user engagement and 30% faster load times.
-- Integrated AI tools into design workflows, enabling 50% faster iteration.
+- **Frontend Development**
+  - Next.js: Expert in building server-side rendered React applications with modern tooling (Shadcn UI, MDX)
+  - React: Proficient in creating interactive UIs with React ecosystem (Once UI, Supabase)
+  - Tailwind CSS: Skilled in rapid UI development with utility-first CSS
 
-#### Codsoft (2022 - 2023)
-Frontend Developer-Intern
-- Developed a design system, improving design consistency by 40%.
-- Led a team to launch a new product line, contributing to a 15% increase in revenue.
+- **Development Tools**
+  - Git & GitHub: Experienced in version control and collaborative development
+  - Modern Build Tools: Familiar with latest web development toolchains
 
-### Studies
+## Projects
 
-#### Dbatu University
-Bachelor of Technology in Electronics and Computer Engineering.
-Studied Artificial intelligence.
+### learn-git-with-me 
+Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
+- **Tech Stack**: Next.js, Tailwind CSS, Shadcn UI
+- **Features**: Responsive design, Blog functionality, Server-side rendering, MDX support, Modern design
+- [View Project](https://github.com/spaciousejar/learn-git-with-me)
+- [Live](https://www.gitme.live)
 
-### Technical Skills
+*Coming soon...*
 
-- Next.js: Building next gen apps with Next.js + Shadcn UI / Magic UI + MDX.
-- React: Building web apps with React + Once UI + Supabase.
-- Tailwind CSS: Tailwind CSS It's fast, flexible, and reliable — with zero-runtime.
-- Git & GitHub: Version control and collaboration with Git & GitHub.
+## Get in Touch
 
-## Contact
+I'm always interested in new opportunities and collaborations!
 
-Feel free to reach out to me at [jadhavvicky752@gmail.com]
+- Email: [jadhavvicky752@gmail.com](mailto:jadhavvicky752@gmail.com)
+- GitHub: [View my work](https://github.com/spaciousejar)
