@@ -1,36 +1,38 @@
-# Vicky Jadhav's Portfolio
+# Portfolio
 
-Welcome to my portfolio website! I'm a passionate developer focused on creating modern web applications.
+This portfolio repository showcases my projects and skills as a developer. It includes a variety of work that demonstrates my proficiency in different programming languages and frameworks.
+##
 
-## About Me
+![Portfolio Image](/public/images/portfolio.png)
 
-I specialize in building responsive and performant web applications using cutting-edge technologies. My work combines technical excellence with great user experiences.
 
-## Technical Expertise
 
-- **Frontend Development**
-  - Next.js: Expert in building server-side rendered React applications with modern tooling (Shadcn UI, MDX)
-  - React: Proficient in creating interactive UIs with React ecosystem (Once UI, Supabase)
-  - Tailwind CSS: Skilled in rapid UI development with utility-first CSS
+## Features
 
-- **Development Tools**
-  - Git & GitHub: Experienced in version control and collaborative development
-  - Modern Build Tools: Familiar with latest web development toolchains
+- **Responsive Design**: The portfolio is designed to be fully responsive, ensuring a seamless experience on both desktop and mobile devices.
+- **Project Showcase**: Each project includes a description, technologies used, and links to live demos and source code.
+- **Contact Information**: A dedicated section for potential employers or collaborators to reach out.
 
-## Projects
+## Technologies Used
 
-### learn-git-with-me 
-Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
-- **Tech Stack**: Next.js, Tailwind CSS, Shadcn UI
-- **Features**: Responsive design, Blog functionality, Server-side rendering, MDX support, Modern design
-- [View Project](https://github.com/spaciousejar/learn-git-with-me)
-- [Live](https://www.gitme.live)
+- Next.js [View](https://nextjs.org)
+- Tailwind CSS [View](https://tailwindcss.com)
+- TypeScript [View](https://www.typescriptlang.org)
+- React [View](https://reactjs.org)
+- Node.js [View](https://nodejs.org)
+- Once UI [View](https://once-ui.com)
 
-*Coming soon...*
+# Contributing
 
-## Get in Touch
+Contributions are welcome! If you would like to contribute to this portfolio, please follow these steps:
 
-I'm always interested in new opportunities and collaborations!
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your forked repository.
+5. Open a pull request detailing your changes and why they should be merged.
 
-- [Contact](mailto:jadhavvicky752@gmail.com)
-- [View my work](https://github.com/spaciousejar?tab=repositories)
+Thank you for considering contributing to this project!
+
+
+
