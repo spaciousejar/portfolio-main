@@ -9,7 +9,7 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@eslint/plugin-kit": "^0.2.7",
+		"@eslint/plugin-kit": "^0.3.4",
 		"@floating-ui/react-dom": "^2.1.1",
 		"@mdx-js/loader": "^3.1.0",
 		"@next/mdx": "^15.2.4",
